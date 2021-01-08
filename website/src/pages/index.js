@@ -10,6 +10,9 @@ export default function Home() {
           Welcome to my Docusaurus translated site!
         </Translate>
       </h1>
+      <main style={{margin: 20}}>
+        <a href="https://github.com/slorber/docusaurus-crowdin-example">Github repository</a>
+      </main>
     </Layout>
   );
 }
