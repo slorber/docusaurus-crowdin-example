@@ -9,9 +9,12 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
-    "clear": "docusaurus clear"
+    "clear": "docusaurus clear",
+    "write-translations": "docusaurus write-translations",
+    "crowdin": "crowdin"
   },
   "dependencies": {
+    "@crowdin/cli": "^3.5.2",
     "@docusaurus/core": "2.0.0-alpha.70",
     "@docusaurus/preset-classic": "2.0.0-alpha.70",
     "@mdx-js/react": "^1.6.21",
