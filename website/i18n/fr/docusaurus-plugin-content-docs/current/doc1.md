@@ -181,7 +181,7 @@ Ceci est une astuce
 
 :::important
 
-Ceci est important
+C'est important
 
 :::
 
