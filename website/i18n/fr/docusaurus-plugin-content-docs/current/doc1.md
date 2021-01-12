@@ -5,7 +5,7 @@ sidebar_label: Style Guide
 slug: /
 ---
 
-Tu peux écrire du contenu en utilisant [la syntaxe Markdown de GitHub](https://github.github.com/gfm/).
+Tu peux écrire du contenu avec [la syntaxe Markdown de GitHub](https://github.github.com/gfm/).
 
 ## Syntaxe Markdown
 
