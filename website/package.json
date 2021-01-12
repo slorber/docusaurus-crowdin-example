@@ -12,7 +12,7 @@
     "clear": "docusaurus clear",
     "write-translations": "docusaurus write-translations",
     "crowdin": "crowdin",
-    "crowdin:sync": "docusaurus write-translations && crowdin upload && crowdin download"
+    "crowdin:sync": "docusaurus write-translations && cd .. && crowdin upload && crowdin download"
   },
   "dependencies": {
     "@crowdin/cli": "^3.5.2",
