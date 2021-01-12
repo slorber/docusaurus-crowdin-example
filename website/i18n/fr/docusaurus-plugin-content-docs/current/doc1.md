@@ -29,13 +29,13 @@ Pour servir de page d'exemple lors de la mise en page des sites Docusaurus basé
 
 ## Emphasis
 
-Emphasis, alias italique, avec *astérisques* ou _tirets bas_.
+Emphasis, aka italique, avec *astérisques* ou _tirets bas_.
 
 Soulignement fort, alias gras, avec **astérisques** ou __traits de soulignement__.
 
-Mise en valeur combinée avec **astérisques et _underscore_**.
+Mise en valeur combinée avec **astérisques et _tirets bas_**.
 
-Barrés utilise double tildes. ~~~Scratch ceci.~~
+Strikethrough utilise deux tildes. ~~~Scratch ceci.~~
 
 ---
 
