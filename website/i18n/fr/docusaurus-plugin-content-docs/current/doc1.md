@@ -137,7 +137,7 @@ Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les tuyau
 
 > Les citations sont très pratiques dans les e-mails pour émuler le texte de réponse. Cette ligne fait partie du même guillemet.
 
-Citation de devis.
+Fin de citation.
 
 > Il s'agit d'une ligne très longue qui sera toujours citée correctement lorsqu'elle sera incluse. Oh garçon continuons à écrire pour s'assurer que c'est assez long pour vraiment envelopper pour tout le monde. Oh, vous pouvez _mettre_ **Markdown** dans un blockquote.
 
