@@ -29,13 +29,13 @@ Pour servir de page d'exemple lors de la mise en page des sites Docusaurus basé
 
 ## Emphasis
 
-Emphasis, aka italique, avec *astérisques* ou _tirets bas_.
+Emphasis, alias italique, avec *astérisques* ou _tirets bas_.
 
 Soulignement fort, alias gras, avec **astérisques** ou __traits de soulignement__.
 
-Mise en valeur combinée avec **astérisques et _tirets bas_**.
+Mise en valeur combinée avec **astérisques et _underscore_**.
 
-Strikethrough utilise deux tildes. ~~~Scratch ceci.~~
+Barrés utilise double tildes. ~~~Scratch ceci.~~
 
 ---
 
@@ -80,8 +80,8 @@ Voici notre logo (survolez pour voir le texte du titre) :
 
 Style en ligne : ![texte alt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Texte du titre du logo 1")
 
-Style de référence : !\[texte alt\]\[logo\]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+Style de référence : !\[texte alt\]\[logo\] [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+Les images de n'importe quel dossier peuvent être utilisées en fournissant le chemin vers le fichier.
 
 Les images de n'importe quel dossier peuvent être utilisées en fournissant le chemin vers le fichier.
 
@@ -137,7 +137,7 @@ Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les tuyau
 
 > Les citations sont très pratiques dans les e-mails pour émuler le texte de réponse. Cette ligne fait partie du même guillemet.
 
-Citation de devis.
+Voici une ligne pour que nous puissions commencer.
 
 > Il s'agit d'une ligne très longue qui sera toujours citée correctement lorsqu'elle sera incluse. Oh garçon continuons à écrire pour s'assurer que c'est assez long pour vraiment envelopper pour tout le monde. Oh, vous pouvez _mettre_ **Markdown** dans un blockquote.
 
@@ -157,7 +157,7 @@ Citation de devis.
 
 ## Interruptions de ligne
 
-Voici une ligne pour que nous puissions commencer.
+Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
 
 Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
 
