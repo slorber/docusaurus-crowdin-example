@@ -157,7 +157,7 @@ Fin de citation.
 
 ## Interruptions de ligne
 
-Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
+Voici une ligne pour que nous puissions commencer.
 
 Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
 
