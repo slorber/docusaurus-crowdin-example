@@ -80,10 +80,10 @@ Voici notre logo (survolez pour voir le texte du titre) :
 
 Style en ligne : ![texte alt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Texte du titre du logo 1")
 
-Style de référence : !\[texte alt\]\[logo\] [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+Style de référence : !\[texte alt\]\[logo\] [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2' Les images de n'importe quel dossier peuvent être utilisées en fournissant le chemin vers le fichier.
 Les images de n'importe quel dossier peuvent être utilisées en fournissant le chemin vers le fichier.
 
-Les images de n'importe quel dossier peuvent être utilisées en fournissant le chemin vers le fichier.
+Images from any folder can be used by providing path to file.
 
 ![img](/img/logo.svg)
 
@@ -137,7 +137,7 @@ Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les tuyau
 
 > Les citations sont très pratiques dans les e-mails pour émuler le texte de réponse. Cette ligne fait partie du même guillemet.
 
-Voici une ligne pour que nous puissions commencer.
+Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
 
 > Il s'agit d'une ligne très longue qui sera toujours citée correctement lorsqu'elle sera incluse. Oh garçon continuons à écrire pour s'assurer que c'est assez long pour vraiment envelopper pour tout le monde. Oh, vous pouvez _mettre_ **Markdown** dans un blockquote.
 
@@ -159,7 +159,7 @@ Voici une ligne pour que nous puissions commencer.
 
 Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
 
-Cette ligne est séparée de celle ci-dessus par deux nouvelles lignes, donc ce sera un _paragraphe séparé_.
+This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
 
 Cette ligne est également un paragraphe séparé, mais... Cette ligne n'est séparée que par une seule nouvelle ligne, donc c'est une ligne séparée dans le _même paragraphe_.
 
